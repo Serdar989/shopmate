@@ -41,6 +41,9 @@
   cursor: pointer;
   max-width: 150px;
 }
+.productCard button.remove {
+  background-color: #ac0d14;
+}
 
 .productCard button:hover {
   background-color: #103f80;
